@@ -1,2 +1,2 @@
 # kaushik369mondal
-This is my first Repository
+This is my first get Repository
